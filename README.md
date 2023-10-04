@@ -6,7 +6,7 @@
 ### Erste Stunde: Kennenlernen
 1. Vorstellungsrunde/Kennenlernspiel
 2. Wissenstand (was ist Informatik, welche Begriffe sind bekannt)
-3.  Erwartungen an den Kurs
-4. [Binder](https://mybinder.org) erklären und es bei allen zum laufen bringen
+3. Erwartungen an den Kurs besprechen
+4. Binder erklären und es bei allen zum laufen bringen
 
 ### Woche 1: Hello World!
