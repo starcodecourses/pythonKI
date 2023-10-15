@@ -15,13 +15,13 @@ In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterric
 - [ ] `string = (text)`
 - [x] `string = 'text'`
 
-*Frage 3:* Was sind gültige Gleitkommazahlen?
+*Frage 3:* Was sind gültige Gleitkommazahlen in Python?
 - [x] `.7`
 - [ ] `0,7`
 - [x] `0.7`
 - [ ] `,7`
 
-*Frage 4:* Was ist kein gültiger Variablename?
+*Frage 4:* Was ist **kein** gültiger Variablename in Python?
 - [ ] `HalloWelt`
 - [ ] `hallo_welt_3`
 - [x] `3hallowelt`
@@ -33,7 +33,7 @@ In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterric
 - [ ] `liste = (3,4,5)`
 - [ ] `liste = 3,4,5`
 
-*Frage 6:* Wie ruft man das 3. Element einer Liste auf?
+*Frage 6:* Wie ruft man das 3. Element einer Liste in Python auf?
 - [ ] `liste(3)`
 - [x] `liste[2]`
 - [ ] `liste(2)`
