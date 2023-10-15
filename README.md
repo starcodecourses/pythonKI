@@ -15,4 +15,10 @@ Kursinhalte:
 * Variablen (Srings, Integers, Floats und Booleans)
 * Listen
 
-###  Woche 2: ...
+###  Woche 2:
+Kursinhalte:
+•	If-Else Statements
+•	For-Loops
+•	While Loops
+
+###  Woche 3: ...
