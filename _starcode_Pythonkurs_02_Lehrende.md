@@ -10,8 +10,8 @@ In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterric
 - [ ] Wahrheitswerte bestimmen
 
 *Frage 2:* Wie definiert man in Pyhton ein String?
-- [x] `string = text`
-- [ ] `string = "text"`
+- [ ] `string = text`
+- [x] `string = "text"`
 - [ ] `string = (text)`
 - [x] `string = 'text'`
 
