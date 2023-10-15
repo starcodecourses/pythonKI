@@ -3,7 +3,7 @@ In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterric
 
 ## <span style="color: #9C68C8;">Widerholungsquiz zur 1. Woche:</span>
 
-*Frage 1:* Was macht der Befehl `print()`?
+*Frage 1:* Was macht der Befehl `print()` in Python?
 - [ ] Text an einen Drucker senden
 - [ ] Einen String definieren
 - [x] Ausgabe von Variablen
