@@ -15,10 +15,23 @@ Kursinhalte:
 * Variablen (Srings, Integers, Floats und Booleans)
 * Listen
 
-###  Woche 2:
+###  Woche 2: Wenn, Dann und Überhaupt
 Kursinhalte:
 * If-Else Statements
 * For-Loops
+
+Bonusinhalt:
 * While Loops
 
-###  Woche 3: ...
+###  Woche 3: Funktionen
+Kursinhalte:
+* Funktionen definieren
+* Parameter
+* Lokale und Globale Variablen
+
+Bonusinhalt:
+* Eingebaute Funktionen (input(), len(), sorted(), ...)
+
+
+###  Woche 4: Bibliotheken
+...
