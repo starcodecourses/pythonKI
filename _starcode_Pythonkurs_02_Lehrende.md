@@ -1,7 +1,7 @@
-# **<span style="color: #6162C5;">Künstliche Intelligenz mit Python</span>  <span style="color: #7865C6;"> - Notitzen für Lehrende zu 'Woche 2: Hello World!'</span>** 
+# **<span style="color: #6162C5;">Künstliche Intelligenz mit Python</span>  <span style="color: #7865C6;"> - Notizen für Lehrende zu 'Woche 2: Hello World!'</span>** 
 In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterrichtswoche 2. Man beachte, dass das hier bereitgestellte Material nicht unbedingt für die Unterrichtsstunden verwendet werden muss und zusätzliche Inhalte so gestaltet werden können, wie es zu dem Unterrichtsstil passt. 
 
-## <span style="color: #9C68C8;">Widerholungsquiz zur 1. Woche:</span>
+## <span style="color: #9C68C8;">Wiederholungsquiz zur 1. Woche:</span>
 
 *Frage 1:* Was macht der Befehl `print()` in Python?
 - [ ] Text an einen Drucker senden
@@ -9,7 +9,7 @@ In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterric
 - [x] Ausgabe von Variablen
 - [ ] Wahrheitswerte bestimmen
 
-*Frage 2:* Wie definiert man in Pyhton ein String?
+*Frage 2:* Wie definiert man in Python ein String?
 - [ ] `string = text`
 - [x] `string = "text"`
 - [ ] `string = (text)`
@@ -21,7 +21,7 @@ In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterric
 - [x] `0.7`
 - [ ] `,7`
 
-*Frage 4:* Was ist **kein** gültiger Variablename in Python?
+*Frage 4:* Was ist **kein** gültiger Variablenname in Python?
 - [ ] `HalloWelt`
 - [ ] `hallo_welt_3`
 - [x] `3hallowelt`

@@ -1,9 +1,9 @@
-# **<span style="color: #6162C5;">Künstliche Intelligenz mit Python</span>  <span style="color: #7865C6;"> - Notitzen für Lehrende zu 'Woche 3: Funktionen'</span>** 
+# **<span style="color: #6162C5;">Künstliche Intelligenz mit Python</span>  <span style="color: #7865C6;"> - Notizen für Lehrende zu 'Woche 3: Funktionen'</span>** 
 In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterrichtswoche 3. Man beachte, dass das hier bereitgestellte Material nicht unbedingt für die Unterrichtsstunden verwendet werden muss und zusätzliche Inhalte so gestaltet werden können, wie es zu dem Unterrichtsstil passt. 
 
 Das Bonusmaterial in dieser Woche kann durch die Python-Dokumentation zu eingebauten Funktionen ergänzt werden: https://docs.python.org/3/library/functions.html
 
-## <span style="color: #9C68C8;">Widerholungsquiz zur 2. Woche:</span>
+## <span style="color: #9C68C8;">Wiederholungsquiz zur 2. Woche:</span>
 
 *Frage 1:* Welche Befehle können wir benutzen, um in Python eine Entscheidung zu treffen?
 - [x] `if`
@@ -31,7 +31,7 @@ Das Bonusmaterial in dieser Woche kann durch die Python-Dokumentation zu eingeba
 *Frage 5:* Was macht `range(6)`?
 - [ ] Erstellt eine Liste `[0,1,2,3,4,5,6]`
 - [x] Erstellt ein Range-Objekt mit Werten von `0` bis `5`
-- [ ] Erstellt ein Ponnyhof-Objekt mit 6 Pferden
+- [ ] Erstellt ein Ponyhof-Objekt mit 6 Pferden
 - [ ] Erstellt eine Liste `[0,1,2,3,4,5]`
 
 *Frage 6:* Wie iteriert man über alle Werte in einer Liste `liste`?
