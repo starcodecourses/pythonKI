@@ -40,4 +40,27 @@ Kursinhalte:
 * Einführung zu Matplotlib (`plt.plot()`)
 
 ###  Woche 5: Visualisierung von Daten
+Kursinhalte:
+* Liniendiagramme
+* Streudiagramme
+
+Bonusinhalt:
+* Balkendiagramme
+* Histogramme
+* Subplots
+* 3D-Diagramme
+
+###  Woche 6: Numpy und Pandas
+...
+
+###  Woche 7: Einführung in das Maschinelle Lernen
+...
+
+###  Woche 8: Lineare Regression
+...
+
+###  Woche 9: Nächste-Nachbarn-Klassifikation
+...
+
+###  Woche 10: Entscheidungsbäume
 ...

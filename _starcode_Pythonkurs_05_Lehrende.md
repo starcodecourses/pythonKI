@@ -1,4 +1,4 @@
-# **<span style="color: #6162C5;">Künstliche Intelligenz mit Python</span>  <span style="color: #7865C6;"> - Notizen für Lehrende zu 'Woche 5: Visualisierungen'</span>** 
+# **<span style="color: #6162C5;">Künstliche Intelligenz mit Python</span>  <span style="color: #7865C6;"> - Notizen für Lehrende zu 'Woche 5: Visualisierung von Daten'</span>** 
 
 In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterrichtswoche 5. Man beachte, dass das hier bereitgestellte Material nicht unbedingt für die Unterrichtsstunden verwendet werden muss und zusätzliche Inhalte so gestaltet werden können, wie es zu dem Unterrichtsstil passt. 
 
