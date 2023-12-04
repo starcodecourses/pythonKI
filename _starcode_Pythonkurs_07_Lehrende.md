@@ -4,6 +4,8 @@ In diesem Dokument finden Lehrende alle zusätzlichen Hinweise für die Unterric
 
 Der wichtigste Teil des Kurses ist die Erklärung der Begriffe rund um das maschinelle Lernen! Sollte das training des NN zu lange brauchen, kann auch die Anzal der Neuronen in den 'Dense' Layern reduziert werden. Alternativ kann auch einer der beiden Layer entfernt werden!
 
+https://playground.tensorflow.org/
+
 ## <span style="color: #9C68C8;">Wiederholungsquiz zur 6. Woche:</span>
 *Frage 1:* Wie erhält man den Wert der an der 3. Zeile und 2. Spalte eines 2D-Arrays `array` steht?
 - [ ] `array[2,3]`
