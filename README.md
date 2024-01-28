@@ -80,6 +80,7 @@ Kursinhalte:
   * Fehlerbestimmung (mittlere quadratische Abweichung)
   * Automatisierung
 * Lineare Klassifikation:
+  * Begriffserklärung 
   * Automatisierung
 
 ###  Woche 9: Nächste-Nachbarn-Klassifikation
