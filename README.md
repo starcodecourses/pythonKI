@@ -51,16 +51,45 @@ Bonusinhalt:
 * 3D-Diagramme
 
 ###  Woche 6: Numpy und Pandas
-...
+Kursinhalte:
+* NumPy
+  * 1D- und 2D-Arrays
+  * Indizierung und Slicing
+  * NumPy Universal Functions
+* Pandas:
+  * Dataframes
+  * Indizierung und Suche
+Bonusmaterial:
+* Suche von Werten in NumPy Arrays
+* Logarithmus
+* Trigonometrie
+* Index-Strukturen in Pandas
 
 ###  Woche 7: Einführung in das Maschinelle Lernen
-...
+Kursinhalte:
+* Begriffserkärung (KI, ML, NN, DL)
+* Training eines NNs um Hangeschriebene Zahlen zu erkennen
+Bonusmaterial:
+* Hinweis auf externe Kursinhalte
 
-###  Woche 8: Lineare Regression
-...
+###  Woche 8: Regression & Klassifikation
+Kursinhalte:
+* Begriffserkärung: Regression vs. Klassifikation
+* Lineare Regression:
+  * Manueller Ansatz
+  * Fehlerbestimmung (mittlere quadratische Abweichung)
+  * Automatisierung
+* Lineare Klassifikation:
+  * Automatisierung
 
 ###  Woche 9: Nächste-Nachbarn-Klassifikation
-...
+Kursinhalte:
+* Euklidischer Abstand
+* Manuelle NN-Klassifikation
+* Automatisierte NN-Klassifikation
 
 ###  Woche 10: Entscheidungsbäume
-...
+Kursinhalte:
+* Begriffserklärung
+* Manuelle erstellung
+* Automatisierte erstellung
